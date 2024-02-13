@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Swamy's Portfolio",
+  title: "Ananditha's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Swamy Portfolio",
+    title: "Kushi Portfolio",
     type: "website",
-    url: "https://www.theswamy.in",
+    url: "https://www.ananditatiwari.com",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Karampuri Laxmi Narsimha Swamy",
-  logo_name: "Swamy",
-  nickname: "swamy_100xdev",
+  title: "Anandita Tiwari",
+  logo_name: "Anandita",
+  nickname: "Kushi",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/klnswamy1702/portfolio",
-  githubProfile: "https://github.com/klnswamy1702",
+  githubProfile: "https://github.com/anandita2911",
 };
 
 const socialMediaLinks = [
