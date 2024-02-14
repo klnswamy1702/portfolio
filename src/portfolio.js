@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ananditha's Portfolio",
+  title: "Swamy's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Kushi Portfolio",
+    title: "Swamy's Portfolio",
     type: "website",
-    url: "https://www.ananditatiwari.com",
+    url: "https://www.theswamy.in",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Anandita Tiwari",
-  logo_name: "Anandita",
-  nickname: "Kushi",
+  title: "Karampuri Laxmi Narsimha Swamy",
+  logo_name: "Swamy",
+  nickname: "Swamy_100xdev",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/klnswamy1702/portfolio",
-  githubProfile: "https://github.com/anandita2911",
+  githubProfile: "https://github.com/klnswamy1702",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/klnswamy1702",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
